@@ -1,0 +1,22 @@
+{
+  "tokens": ["1fb5b2f33b9f880cdc15e25ee64f6e305014438fe3e75424849371dc116fc0af40f7948a58134ec8d4ef1","4201c954c6e5f4e01d4642afcaf03264933f9f5075e8a10bfc9e20cdb988b1a30be6514833a378b863529","ca4e86c052b00605a15a0c4771db1089c5454c52ecea3ef3c3a9b13907d09772d4fafd16b06570809bdee" ],
+  "secret_code": "Aa989767132005",
+  "delete_all_notify": false,
+  "ru_captcha_key": "",
+  "ignored_members": [],
+  "ignored_global_members": [],
+  "muted_members": [],
+  "aliases": [],
+  "service_prefixes": [
+    "!слп",
+    ".слп"
+  ],
+  "self_prefixes": [
+    "!л",
+    ".л"
+  ],
+  "duty_prefixes": [
+    "!лд",
+    ".лд"
+  ]
+}
